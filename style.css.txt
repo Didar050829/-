@@ -1,0 +1,29 @@
+
+        body {
+            font-family Arial, sans-serif;
+            text-align center;
+            background url('httpswallpapers.comimageshdcyberpunk-gaming-setup-desk-uxz80m3ewv6qyz98.jpg') no-repeat center centercover;
+            color white;
+        }
+        nav {
+            background rgba(0, 0, 0, 0.7);
+            padding 10px;
+        }
+        nav a {
+            color white;
+            text-decoration none;
+            margin 10px;
+            font-size 18px;
+        }
+        .content {
+            padding 20px;
+            display none;
+            background rgba(0, 0, 0, 0.8);
+            border-radius 10px;
+            margin 20px auto;
+            width 80%;
+        }
+        .active {
+            display block;
+        }
+   
