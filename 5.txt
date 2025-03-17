@@ -1,0 +1,8 @@
+<div id="contacts" class="content">
+        <h1>Контакты</h1>
+        <p>📍 Адрес: Қабанбай батыра 8
+	<br>📞 Телефон: 87074799761
+	<br>📧 Email: cyberclub@example.com
+	<br>🕒 График работы: 9:00-02:00
+	</p>
+    </div>
